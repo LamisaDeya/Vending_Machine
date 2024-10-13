@@ -63,3 +63,8 @@ Set up the servo motor for dispensing.
 Monitor for incoming SMS.
 If payment equals product price, dispense product.
 Display the transaction status on the LCD.
+
+
+### YouTube link
+
+Check out the demonstration video here: https://youtu.be/giCCR14wO5o?si=-uG5Mvoqe0_tLtoN
