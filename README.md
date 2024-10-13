@@ -54,6 +54,10 @@ The following steps outline the software workflow:
 5. If verified, activate the servo motor to dispense the item.
 6. Update the LCD display with the transaction status.
 
+### YouTube link
+
+Check out the demonstration video here: https://youtu.be/giCCR14wO5o?si=-uG5Mvoqe0_tLtoN
+
 ### Pseudocode
 
 ```plaintext
@@ -65,6 +69,4 @@ If payment equals product price, dispense product.
 Display the transaction status on the LCD.
 
 
-### YouTube link
 
-Check out the demonstration video here: https://youtu.be/giCCR14wO5o?si=-uG5Mvoqe0_tLtoN
